@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://agriconnectbot.github.io/cropngo-tantan-musang_and_irrigation_and_rambutan_and_durian_and_more/sitemap.xml
